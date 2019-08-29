@@ -1,6 +1,6 @@
 {
   "name": "another-random-number-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> Generates a random number in between a minimum and maximum value.",
   "main": "index.js",
   "scripts": {

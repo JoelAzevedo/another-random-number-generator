@@ -1,7 +1,5 @@
 # Another random number generator
 
-[![npm version](https://badge.fury.io/js/another-random-number-generator.svg)](https://badge.fury.io/js/another-random-number-generator)
-
 > Generates a random number in between a minimum and maximum value.
 
 ## Install

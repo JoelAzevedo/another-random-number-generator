@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/another-random-number-generator.svg)](https://badge.fury.io/js/another-random-number-generator)
 
-> Generates a random number in between a minimum and maximum value.
+> Generates a random number between a minimum and maximum value.
 
 ## Install
 ```
@@ -23,7 +23,7 @@ Expected result:
 
 ### randomNumberGenerator([minimum],[maximum])
 
-Returns a random number between the minimium and maximum value.
+Returns a random number.
 
 ## License
 

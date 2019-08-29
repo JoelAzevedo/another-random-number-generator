@@ -1,15 +1,15 @@
-# Just another random number generator
+# Another random number generator
 
 > Generates a random number in between a minimum and maximum value.
 
 ## Install
 ```
-$ npm install just-another-random-number-generator
+$ npm install another-random-number-generator
 ```
 
 ## Usage 
 ```js
-const randomNumberGenerator = require('just-another-random-number-generator');
+const randomNumberGenerator = require('another-random-number-generator');
 console.log(randomNumberGenerator(10, 20));
 ```
 Expected result:

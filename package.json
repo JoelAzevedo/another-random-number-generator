@@ -1,0 +1,22 @@
+{
+  "name": "just-another-random-number-generator",
+  "version": "1.0.0",
+  "description": "> Generates a random number in between a minimum and maximum value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelAzevedo/just-another-random-number-generator.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Joel Azevedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoelAzevedo/just-another-random-number-generator/issues"
+  },
+  "homepage": "https://github.com/JoelAzevedo/just-another-random-number-generator#readme"
+}
